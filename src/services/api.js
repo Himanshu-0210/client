@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const API =axios.create({
-    baseURL:'https://server-saf3.onrender.com/api',
+    baseURL:'https://coursebookingby-himanshu.netlify.app/api',
     withCredentials:true,
 })
 
